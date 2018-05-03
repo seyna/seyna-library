@@ -5,6 +5,6 @@
   * [影片](/videos/index.md)
   * [有趣的話](/quotes/funny.md)
 * 神秘的房間
-  * 翻譯作品 
+  * [翻譯作品](/secret_room/translations.md)
   * 片段記憶
   * [頓悟](/secret_room/thoughts.md)

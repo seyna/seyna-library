@@ -1,4 +1,4 @@
-## Charlie Munger
+### Charlie Munger
 
 \- "I try to get rid of people who always confidently answer questions about which they don't have any real knowledge."
 
@@ -8,6 +8,6 @@
 
 \- "Avoiding stupidity is easier than seeking brilliance."
 
-## Ben Franklin
+### Ben Franklin
 
 \- "If you want to persuade, appeal to interest not to reason."
