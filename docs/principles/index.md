@@ -80,6 +80,28 @@
 5. 把眼光放遠一點，也提醒別人眼光要放遠一點
 6. 原諒
 
+---
+
+### 關於建立品味
+
+水野學：我覺得有三種辦法<sup>3</sup>
+
+1. 了解經典與標準
+2. 找到流行
+3. 找出共通點
+
+
+### 關於設計
+
+水野學：
+
+1. 品味是將累積起的知識最佳化的能力
+   - 想要最佳化，你只要有知識就好了。要有知識，你努力吸收就行了。因此品味是可以靠努力得來的。 
+2. 不要想突然轟動武林
+   - 要正中紅心，只要做出一點點差別就行了。簡單來講，這是起源於對差異化的誤解。
+3. 品牌藏在細節裡
+  - 品牌就像是在河邊用一顆顆小石子疊成一個大石堆一樣。品牌是「所有呈現方式的掌控」，只要有一顆「小石頭」呈現得不好，就會連帶影響整個品牌。
+
 
 ---
 
@@ -115,3 +137,5 @@
 <div class="reference">[1]: 原句："Professional success is hard, but it’s not complicated." — <a target="_blank" href="https://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html">"Quit Social Media. Your Career May Depend on It.", _New York Times._</a></div>
 
 <div class="reference">[2]: 出自《成功不再跌跌撞撞》，艾瑞克．巴克。</div>
+
+<div class="reference">[3]: 出自《從「賣」到「大賣」：水野學的品牌設計講義》，水野學。</div>
