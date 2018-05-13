@@ -1,4 +1,4 @@
-### Charlie Munger
+## Charlie Munger
 
 \- "I try to get rid of people who always confidently answer questions about which they don't have any real knowledge."
 
@@ -8,12 +8,12 @@
 
 \- "Avoiding stupidity is easier than seeking brilliance."
 
-### Ben Franklin
+## Ben Franklin
 
 \- "If you want to persuade, appeal to interest not to reason."
 
 
-### 水野學
+## 水野學
 
 \- 「我在跟經營者溝通的過程中一定會確認兩件事，一是企業的『目標』，另一則是企業的『理念』。」<sup>1</sup>
 

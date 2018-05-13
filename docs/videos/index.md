@@ -1,4 +1,4 @@
-### Sociology
+## Sociology
 
 - **The puzzle of motivation**, _Dan Pink, TED_
   - 企業組織習慣用獎金激勵員工，然而已有大量科學研究證實，獎金的獎勵方法往往扼殺了創意，導致更壞的成績。外在激勵不再有用，我們應該更重視這三個要素：自主性、掌握度、使命感。
@@ -11,7 +11,7 @@
 - **The power of the informal economy**, _Robert Neuwirth, TED_
   - 地下經濟(又可簡稱 D 體系，或者 DIY 經濟)，目前已經是世界第二大的經濟體，估計有 18 億人口從事 ... 地下經濟對全球的發展來說是顆強而有力的引擎，我們得改變對它的刻板印象。
 
-### Science & Technology
+## Science & Technology
 
 - **How the progress bar keeps you san**, _Daniel Engber, TED_
   - 進度條也有學問，你是在跟我開玩笑！什麼，還減輕了你對死亡的恐懼？沒錯，這點才是個玩笑。簡單來說，進度條的最佳實作方式是，一開始就讓進度衝刺吧，如此會讓用戶的「速度感受」提升許多。
