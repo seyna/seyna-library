@@ -102,6 +102,32 @@
 3. 品牌藏在細節裡
   - 品牌就像是在河邊用一顆顆小石子疊成一個大石堆一樣。品牌是「所有呈現方式的掌控」，只要有一顆「小石頭」呈現得不好，就會連帶影響整個品牌。
 
+---
+
+## 關於提案
+
+Oren Klaff：
+
+「不當纏人精」三大原則<sup>4</sup>：
+
+1. 無欲：追求事務並非必要，有時得讓事物自己找上門
+2. 功成：在人前展現你最擅長的優點
+3. 身退：別人以為你會窮追不捨的關鍵時刻，瀟灑抽身
+
+
+---
+
+## 關於時機與下決策
+
+Amazon 的 Jeff Bezos 常自問：「這個決策是可逆的還是不可逆的？」<sup>5</sup>
+
+- 如果這個決策是可逆的，我們可以在資訊不完美的時候盡速做出判斷。但若決策的結果將是不可逆的，那麼我們最好放慢決策的過程，確保我們考慮了夠多的資訊，以及對於這個問題有了最大程度的了解。
+
+General George Patton：
+
+- A good plan, violently executed now, is better than a perfect plan next week.
+
+
 
 ---
 
@@ -136,6 +162,10 @@
 
 <div class="reference">[1]: 原句："Professional success is hard, but it’s not complicated." — <a target="_blank" href="https://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html">"Quit Social Media. Your Career May Depend on It.", _New York Times._</a></div>
 
-<div class="reference">[2]: 出自《成功不再跌跌撞撞》，艾瑞克．巴克。</div>
+<div class="reference">[2]: 出自《成功不再跌跌撞撞》，_艾瑞克．巴克_</div>
 
-<div class="reference">[3]: 出自《從「賣」到「大賣」：水野學的品牌設計講義》，水野學。</div>
+<div class="reference">[3]: 出自《從「賣」到「大賣」：水野學的品牌設計講義》，_水野學_</div>
+
+<div class="reference">[4]: 出自《為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？：募資提案教父1週談成6千萬的快‧精‧準攻心術》，_Oren Klaff_</div>
+
+<div class="reference">[5]: <a target="_blank" href="https://www.fs.blog/2018/04/reversible-irreversible-decisions/">"Go Fast and Break Things: The Difference Between Reversible and Irreversible Decisions"，_Farnam Street_</a></div>
