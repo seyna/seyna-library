@@ -1,6 +1,6 @@
 # 朱文藝的收藏館
 
-A personal library curated by Wen Yi Chu
+A personal library curated by a citizen living in Taipei
 
 <br>
 

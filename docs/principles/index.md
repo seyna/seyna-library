@@ -127,6 +127,36 @@ General George Patton：
 
 - A good plan, violently executed now, is better than a perfect plan next week.
 
+---
+
+## 關於行銷
+
+吳軍談王曉峰的銷售智慧<sup>6</sup>：
+
+- 銷售的前一半是，把東西賣出去，然而**最關鍵的是後一半，「把錢收回來」**。不能輕忽收帳的成本
+- 一個可持續的生意關鍵是要讓顧客把買的東西用光，否則就很難讓他們第二次、第三次購買
+- 任何一個好的商品和服務，都需要讓消費者有面子
+
+吳軍談自身經驗<sup>6</sup>：
+
+- 世界上所有人都喜歡主動買東西，而不是被強迫買東西
+- 如果我們能夠顧及消費者的面子，生意就能做好，事情就能做好；如果我們為消費者提供價值，而不是一味地推銷，我們的產品，甚至我們自己，就會受到歡迎
+
+---
+
+## 關於效率
+
+確認自己的價值，做好只有自己才能做到的事；用報酬矩陣分析效率，提高工作的 CP 值<sup>7</sup>
+- (執行容易, 執行困難) x (效益小, 效益大)
+
+用豐田「3M原則」，發現問題的癥結<sup>7</sup>
+- 3M為：不必要的浪費、不一致、不合理
+
+運用「ECRS原則」，依序改善工作流程<sup>7</sup>。將簡化放在最後思考
+- E: Eliminate (排除)
+- C: Combine   (整合)
+- R: Replace   (替換)
+- S: Simplify  (簡化)
 
 
 ---
@@ -169,3 +199,7 @@ General George Patton：
 <div class="reference">[4]: 出自《為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？：募資提案教父1週談成6千萬的快‧精‧準攻心術》，_Oren Klaff_</div>
 
 <div class="reference">[5]: <a target="_blank" href="https://www.fs.blog/2018/04/reversible-irreversible-decisions/">"Go Fast and Break Things: The Difference Between Reversible and Irreversible Decisions"，_Farnam Street_</a></div>
+
+<div class="reference">[6]: 出自《見識：吳軍博士的矽谷來信，教你掌握商業與人生的本質》，_吳軍_</div>
+
+<div class="reference">[7]: 出自《企管顧問教你達成目標的時間順序法：豐田專業經理人、NASA科學家都在用的40種專注法則！》，_西村克己_</div>

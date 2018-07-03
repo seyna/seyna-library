@@ -13,5 +13,5 @@
 
 ## Science & Technology
 
-- **How the progress bar keeps you san**, _Daniel Engber, TED_
+- **How the progress bar keeps you sane**, _Daniel Engber, TED_
   - 進度條也有學問，你是在跟我開玩笑！什麼，還減輕了你對死亡的恐懼？沒錯，這點才是個玩笑。簡單來說，進度條的最佳實作方式是，一開始就讓進度衝刺吧，如此會讓用戶的「速度感受」提升許多。
