@@ -4,5 +4,4 @@
   * [書](/books/index.md)
   * [影片](/videos/index.md)
 * 神秘的房間
-  * [翻譯作品](/secret_room/translations.md)
   * [頓悟](/secret_room/thoughts.md)

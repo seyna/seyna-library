@@ -12,7 +12,7 @@ A personal library curated by a citizen living in Taipei
 
 <br>
 
-As far as I can remember, I've been a readaholic: history, literature, design, science, phycology ... I can read everything. Though Internet has brought us rich and fast information, I still like the properties of static and thoroughness in books, thus I still can't get rid of the habit of buying books.
+As far as I can remember, I've been a readaholic: history, literature, design, science, business ... I want to read everything. Though Internet has brought us rich and fast information, I still like the properties of static and thoroughness in books, thus I still can't get rid of the habit of buying books.
 
 As I use Internet more, I see information change faster and faster, it's getting really hard to keep sharp observation and long-term focus. Therefore I build this.
 
